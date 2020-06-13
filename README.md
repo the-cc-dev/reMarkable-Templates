@@ -8,9 +8,11 @@ Just a few templates for the reMarkable tablet. I like their small lines templat
 Just some lines with borders. 
 
 **E_Lines_To_Do.png:**
+![E_Lines_To_Do.png](E_Lines_To_Do.png)
 ToDo List with the same line-heigh.
 
 **E_Lines_Projekt.png:**
+![E_Lines_Projekt.png](E_Lines_Projekt.png)
 ToDo List with header.
 
 ## Installation:
