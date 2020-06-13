@@ -15,28 +15,29 @@ ToDo List with header.
 ## Installation:
 Copy files to your reMarkable tablet (instructions: https://remarkablewiki.com/tips/templates)
 You can add this section to the templates.json:
-´{
-      "name": "ToDo Linie",
+
+''{
+      "name": "ToDo Lines",
       "filename": "E_Lines_ToDo",
       "iconCode": "\ue98f",
       "categories": [
-        "Eigene"
+        "Custom"
       ]
     },
 	{
-      "name": "Projekt (Linie)",
+      "name": "Project (Lines)",
       "filename": "E_Lines_Projekt",
       "iconCode": "\ue98f",
       "categories": [
-        "Eigene"
+        "Custom"
       ]
     },
-	{
-      "name": "Linien (klein)",
+    {
+      "name": "Lines (small)",
       "filename": "E_Lines",
       "iconCode": "\ue9a8",
       "categories": [
-        "Eigene"
+        "Custom"
       ]
  }
-      ]
+ ''
