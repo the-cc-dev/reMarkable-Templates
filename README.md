@@ -15,6 +15,10 @@ ToDo List with the same line-heigh.
 ![E_Lines_Projekt.png](E_Lines_Projekt.png)
 ToDo List with header.
 
+**E_Lines_Projekt_Text.png:**
+![E_Lines_Projekt.png](E_Lines_Projekt_Text.png)
+ToDo List with header und space for notes.
+
 ## Installation:
 Copy files to your reMarkable tablet (instructions: https://remarkablewiki.com/tips/templates)
 You can add this section to the templates.json:
@@ -30,6 +34,14 @@ You can add this section to the templates.json:
 	{
       "name": "Project (Lines)",
       "filename": "E_Lines_Projekt",
+      "iconCode": "\ue98f",
+      "categories": [
+        "Custom"
+      ]
+    },
+    {
+      "name": "Project (Lines/Text)",
+      "filename": "E_Lines_Projekt_Text",
       "iconCode": "\ue98f",
       "categories": [
         "Custom"
